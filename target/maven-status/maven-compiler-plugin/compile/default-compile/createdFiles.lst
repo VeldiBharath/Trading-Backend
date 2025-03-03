@@ -1,0 +1,6 @@
+com\gfgtest\tradingapp\service\TradingService.class
+com\gfgtest\tradingapp\repository\TradeRepository.class
+com\gfgtest\tradingapp\service\TradingServiceImpl.class
+com\gfgtest\tradingapp\TradingappApplication.class
+com\gfgtest\tradingapp\model\Trade.class
+com\gfgtest\tradingapp\controller\TradeController.class
